@@ -32,7 +32,7 @@ pengembangan di **NusaGuard**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-513064?style=for-the-badge&logo=postgresql&logoColor=EDE7F6)
 ![MySQL](https://img.shields.io/badge/MySQL-6D458C?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
+---
 
 <div align="center">
 
