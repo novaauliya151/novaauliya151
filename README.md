@@ -32,25 +32,7 @@ pengembangan di **NusaGuard**.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-513064?style=for-the-badge&logo=postgresql&logoColor=EDE7F6)
 ![MySQL](https://img.shields.io/badge/MySQL-6D458C?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
-
 <br>
-
-| Area | Teknologi yang Pernah Digunakan |
-| :--- | :--- |
-| **Mobile** | Kotlin · Flutter |
-| **Frontend** | React · TanStack |
-| **Backend** | PHP · Laravel · Node.js |
-| **Database** | PostgreSQL · MySQL |
-
-## PROJECT EXPERIENCE
-
-### NusaGuard
-**Pengalaman pengembangan proyek**
-
-Terlibat dalam pengerjaan proyek di NusaGuard.
-
----
 
 <div align="center">
 
