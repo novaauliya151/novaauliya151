@@ -1,87 +1,62 @@
 <div align="center">
 
-<sub>SEBUAH PROFIL, BUKAN DAFTAR SEGALANYA.</sub>
-
-# Halo, aku Nova Auliya.
-
-**Rasa penasaran punya tempat di sini.**
-
-Tempat untuk mencoba ide, menyimpan proses,
-dan memberi kesempatan pada sesuatu yang belum sempurna.
-
-[✉ Mari terhubung](mailto:novaauliyatulfaizah151@gmail.com)
-
-</div>
-
----
-
-```text
-┌─ PROFIL ──────────────────────────────────────┐
-│                                               │
-│  Pemilik     Nova Auliya                      │
-│  Status      Masih bisa berkembang            │
-│  Arah        Dari penasaran menjadi paham     │
-│  Versi       Tidak pernah benar-benar final   │
-│                                               │
-└───────────────────────────────────────────────┘
-```
-
-### Sedikit tentang ruang ini
-
-Aku ingin profil ini menjadi tempat untuk hal-hal yang layak dicoba.
-Ide kecil, pertanyaan sederhana, atau sesuatu yang awalnya cuma
-terlintas: semuanya boleh punya versi pertama.
-
-Tidak semua harus besar. Ada kepuasan tersendiri saat sesuatu
-yang tadinya membingungkan akhirnya mulai masuk akal.
-
-### Hal yang ingin kujaga
-
-| Prinsip | Artinya buatku |
-| :--- | :--- |
-| **Pahami alasannya** | Bukan sekadar tahu langkahnya. |
-| **Mulai secukupnya** | Beri ide kesempatan untuk diuji. |
-| **Sisakan ruang** | Pendapat boleh berubah ketika pemahaman bertambah. |
-| **Buat berarti** | Hal kecil pun layak dikerjakan dengan perhatian. |
-
-### Di antara ide dan hasil
-
-```text
-       sebuah pertanyaan
-               │
-               ▼
-          coba sesuatu
-               │
-               ▼
-       lihat yang terjadi
-               │
-               ▼
-        pahami sedikit lagi
-               │
-               └───────────► pertanyaan baru
-```
-
-<details>
-<summary><b>Catatan untuk yang mampir</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=241334&height=160&text=Nova Auliya&fontSize=40&fontColor=EDE7F6&desc=WEB%20%26%20MOBILE%20DEVELOPMENT&descSize=12&descAlignY=74" width="100%" alt="Nova Auliya — Web & Mobile Development" />
 
 <br>
 
-Di balik setiap repositori ada keputusan, percobaan,
-dan bagian yang mungkin masih bisa diperbaiki.
+[![Email](https://img.shields.io/badge/CONTACT-6D458C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novaauliyatulfaizah151@gmail.com)
 
-Silakan melihat-lihat. Kalau ada ide, pertanyaan,
-atau sudut pandang lain, aku terbuka untuk percakapan.
+</div>
 
-**[Kirim pesan](mailto:novaauliyatulfaizah151@gmail.com)**
+## PROFILE
 
-</details>
+Memiliki pengalaman menggunakan teknologi pengembangan web dan mobile,
+termasuk Kotlin, Flutter, PHP, Laravel, React, Node.js, dan TanStack,
+serta database PostgreSQL dan MySQL. Pengalaman proyek mencakup
+pengembangan di **NusaGuard**.
+
+## TECH STACK
+
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-241334?style=for-the-badge&logo=kotlin&logoColor=EDE7F6)
+![Flutter](https://img.shields.io/badge/Flutter-392047?style=for-the-badge&logo=flutter&logoColor=EDE7F6)
+![PHP](https://img.shields.io/badge/PHP-513064?style=for-the-badge&logo=php&logoColor=EDE7F6)
+![Laravel](https://img.shields.io/badge/Laravel-6D458C?style=for-the-badge&logo=laravel&logoColor=white)
+
+![React](https://img.shields.io/badge/React-241334?style=for-the-badge&logo=react&logoColor=EDE7F6)
+![Node.js](https://img.shields.io/badge/Node.js-392047?style=for-the-badge&logo=nodedotjs&logoColor=EDE7F6)
+![TanStack](https://img.shields.io/badge/TanStack-513064?style=for-the-badge&logo=reactquery&logoColor=EDE7F6)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-513064?style=for-the-badge&logo=postgresql&logoColor=EDE7F6)
+![MySQL](https://img.shields.io/badge/MySQL-6D458C?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<br>
+
+| Area | Teknologi yang Pernah Digunakan |
+| :--- | :--- |
+| **Mobile** | Kotlin · Flutter |
+| **Frontend** | React · TanStack |
+| **Backend** | PHP · Laravel · Node.js |
+| **Database** | PostgreSQL · MySQL |
+
+## PROJECT EXPERIENCE
+
+### NusaGuard
+**Pengalaman pengembangan proyek**
+
+Terlibat dalam pengerjaan proyek di NusaGuard.
 
 ---
 
 <div align="center">
 
-**Lebih paham dari kemarin sudah merupakan kemajuan.**
+[![Get in Touch](https://img.shields.io/badge/GET_IN_TOUCH-241334?style=for-the-badge&logo=gmail&logoColor=EDE7F6)](mailto:novaauliyatulfaizah151@gmail.com)
 
-<sub>NAMA_KAMU · masih ada yang ingin dicoba</sub>
+<sub><b>Nova Auliya</b> · Web & Mobile Development</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D458C&height=4" width="100%" alt="" />
