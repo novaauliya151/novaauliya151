@@ -1,93 +1,64 @@
-<div align="center">
+<h1 align="center">👋 Hai, aku Nova Auliya</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Laravel & PHP Enthusiast</h3>
 
-<!-- Banner otomatis ganti sesuai mode gelap/terang GitHub -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=250&section=header&text=Halo,%20Saya%20NovaAuliya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=250&section=header&text=Halo,%20Saya%20NovaAuliya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18">
-  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=250&section=header&text=Halo,%20Saya%20NovaAuliya&fontSize=40&fontColor=ffffff">
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Membangun+Web+dengan+Laravel+%26+PHP;Suka+Ngoprek+Database+MySQL+%26+PostgreSQL;Terus+Belajar%2C+Terus+Berkarya+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Enthusiast;Selalu+Belajar+Hal+Baru+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=novaauliya151&label=Profile%20Views&color=9B59B6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/novaauliya151?label=Followers&style=social" alt="Followers" />
+</p>
 
-<br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=novaauliya151&label=Profile%20Views&color=9B59B6&style=for-the-badge" alt="Profile views" />
-<a href="https://www.linkedin.com/in/nova-auliyatul-faizah-7a41383b6/"><img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/novaauliya"><img src="https://img.shields.io/badge/Instagram-9B59B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:novaauliyatulfaizah151@gmail.com"><img src="https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 💡 Tentang Aku
+- 🔭 Lagi ngerjain **SajiKlik**
+- 🌱 Lagi memperdalam **Laravel & optimasi database**
+- 🤝 Terbuka buat kolaborasi proyek **web development**
+- 💬 Tanya-tanya soal **PHP, Laravel, MySQL, atau PostgreSQL**? Gas aja
+- 📫 Hubungi aku di: **novaauliyatulfaizah151@gmail.com**
+- ⚡ Fun fact: **Lebih dari 50% waktu "coding" saya sebenarnya dihabiskan untuk menatap layar sambil mempertanyakan keputusan hidup.**
 
-</div>
+---
 
-<br/>
+### 🌐 Yuk Terhubung
+<p align="left">
+<a href="https://www.linkedin.com/in/nova-auliyatul-faizah-7a41383b6/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a>
+<a href="https://instagram.com/novaauliya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a>
+</p>
 
-## 🚀 Tentang Saya
-- 🔭 Saat ini sedang mengerjakan **SajiKlik**
-- 🌱 Sedang mendalami **Laravel & optimasi database**
-- 👯 Terbuka untuk kolaborasi proyek **web development**
-- 💬 Tanya saya soal **PHP, Laravel, MySQL, PostgreSQL**
-- ⚡ Fun fact: **jujur gtw**
+---
 
-<br/>
+### 🛠️ Tools & Teknologi
 
-## 🛠️ Tech Stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+</p>
 
-<div align="center">
+---
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+### 📊 Statistik GitHub
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novaauliya151&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-**Database**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novaauliya151&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaauliya151&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-</div>
+---
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME&theme=tokyonight&hide_border=true&background=00000000" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="60%" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GANTI_USERNAME&theme=algolia&no-frame=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME&theme=react-dark&hide_border=true&bg_color=00000000&color=9B59B6&line=9B59B6&point=ffffff" width="90%" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=100&section=footer"/>
-</div>
+<p align="center"><i>✨ Terima kasih sudah mampir ke profil aku! ✨</i></p>
