@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=241334&height=160&text=Nova Auliya&fontSize=40&fontColor=EDE7F6&desc=WEB%20%26%20MOBILE%20DEVELOPMENT&descSize=12&descAlignY=74" width="100%" alt="Nova Auliya — Web & Mobile Development" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=241334&height=160&text=Nova%20Auliya&fontSize=40&fontColor=EDE7F6&desc=WEB%20%26%20MOBILE%20DEVELOPMENT&descSize=12&descAlignY=74" width="100%" alt="Nova Auliya — Web & Mobile Development" />
 
 <br>
 
